@@ -1,6 +1,8 @@
 Bridge between APRS TNC and BRCMap server
 =========================================
 
+A process that runs in the background 
+
 Before installation ensure that you have dfaprs deployment keys on the system.
 
 Installation (Ubuntu)
